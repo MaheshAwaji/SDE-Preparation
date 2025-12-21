@@ -20,7 +20,6 @@ public class BarChart {
 				}else {
 					System.out.print("  ");
 				}
-				
 			}
 			System.out.println();
 		}
